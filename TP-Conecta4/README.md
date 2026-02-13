@@ -3,7 +3,7 @@
 Este es un desarrollo individual del clásico juego **Conecta 4**, implementado en Python utilizando la librería **Pygame** para la interfaz gráfica y **Numpy** para la lógica de la matriz del tablero.
 
 ## 📸 Vista Previa
-![Captura del Juego](img/captura_conecta4.png)
+![Captura del Juego](img/Captura_conecta4.png)
 
 ## 🚀 Funcionalidades
 * **Interfaz Gráfica:** Tablero interactivo con animaciones para las fichas.
@@ -32,4 +32,5 @@ Para ejecutar este juego, necesitas tener instalado Python y las siguientes libr
 * **Soltar ficha:** Haz clic izquierdo para soltar la pieza en la columna elegida.
 
 * **Objetivo:** El primer jugador en alinear 4 fichas de su color (horizontal, vertical o diagonal) gana la partida.
+
 
