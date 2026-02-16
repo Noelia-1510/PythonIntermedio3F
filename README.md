@@ -4,9 +4,9 @@ Este repositorio contiene los trabajos prácticos realizados durante el curso, o
 
 ## 📂 Contenido del Repositorio
 
-* **[🧠 Desafíos](./Desafíos)**: Resolución de ejercicios de lógica y algoritmos vistos en clase.
-* **[🎬 TP-Catálogo de Películas](./TP-CatálogoPelículas)**: Aplicación de escritorio desarrollada para la gestión de películas.
-* **[🎮 TP-Conecta4](./TP-Conecta4)**: Juego interactivo con interfaz gráfica en Pygame.
+* **[🧠 Desafíos](https://github.com/Noelia-1510/PythonIntermedio3F/tree/principal/Desaf%C3%ADos)**
+* **[🎬 TP-Catálogo de Películas](https://github.com/Noelia-1510/PythonIntermedio3F/tree/principal/TP-Cat%C3%A1logoPel%C3%ADculas)**
+* **[🎮 TP-Conecta4](https://github.com/Noelia-1510/PythonIntermedio3F/tree/principal/TP-Conecta4)**
 
 ---
 **Tecnologías:** 🐍 Python | 🎮 Pygame | 🔢 Numpy | 💻 GitHub
